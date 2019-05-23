@@ -1,6 +1,6 @@
 {
-    "host": "193.161.193.99",
-    "port": 1194,
+    "host": "165.16.32.1",
+    "port": 8080,
     "logpath": "logger.php",
     "foodMass": 1,
     "fireFood": 20,
